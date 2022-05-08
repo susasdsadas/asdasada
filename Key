@@ -1,0 +1,16 @@
+local Key1 = "lSsCMogXzUyPVjSnreGiWdYmDJxjnV"
+local Key2 = "dRcXdgJFDnqiVDiwMpWyDbJzyIsGVw"
+local Key3 = "dKOUpGpkblsbxSTqPiXdzZNVrnJTvY"
+local Key4 = "leZQhWpsiDvhIlHVhmQangxSbaolxK"
+local Key5 = "aHxNlfXuscesNirtVnNEnmeFcnxSQG"
+local Key6 = "lWBmGLgmNNhuXUuSZBNYumvUsLamDO"
+
+
+_G.Key = ""
+
+if _G.Key == Key1 then
+    print("ScripHere")
+end
+
+-- Ignore
+getgenv().autogenre = true
